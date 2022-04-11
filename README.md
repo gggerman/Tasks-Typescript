@@ -1,7 +1,7 @@
 # Tasks Application
 
 <p>
-  <img source="https://german-garcia-portfolio.vercel.app/static/media/Tasks-Typescript.e0f11541.png">
+  <img src="https://german-garcia-portfolio.vercel.app/static/media/Tasks-Typescript.e0f11541.png">
 </p>
 
 ## Technologies used:
