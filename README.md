@@ -10,6 +10,10 @@
 - React
 - Bootstrap
 
+## Deploy:
+
+https://tasks-typescript.vercel.app/
+
 ## Instruccions to run this project.
 
 ```javascript
