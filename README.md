@@ -1,7 +1,7 @@
 # Tasks Application
 
-Technologies used:
+## Technologies used:
 
-Typescript
-React
-Bootstrap
+- Typescript
+- React
+- Bootstrap
