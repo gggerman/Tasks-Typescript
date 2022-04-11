@@ -1,1 +1,7 @@
-# Tasks Application created with React and Typescript.
+# Tasks Application
+
+Technologies used:
+
+Typescript
+React
+Bootstrap
